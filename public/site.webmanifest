@@ -1,0 +1,10 @@
+{
+  "name": "UNISUN Auto Machines and Equipments Trading L.L.C.",
+  "short_name": "UNISUN",
+  "description": "Automotive workshop equipment and nitrogen tyre inflation solutions in the UAE.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f7",
+  "theme_color": "#211a18",
+  "icons": [{"src": "/unisun-logo.png", "sizes": "any", "type": "image/png"}]
+}
